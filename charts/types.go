@@ -44,7 +44,7 @@ var ChartType = struct {
 	WordCloud:     "wordCloud",
 }
 
-// ThemeType contains string representations of them types.
+// ThemeType contains string representations of theme types.
 // TODO: should use enum.
 var ThemeType = struct {
 	Chalk,
